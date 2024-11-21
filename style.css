@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
     display: flex;
+    background: linear-gradient(#141e30, #2a6c56);
     height: 100vh;
     justify-content: center;
     align-items: center;
